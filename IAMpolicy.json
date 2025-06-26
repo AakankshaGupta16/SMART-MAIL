@@ -1,5 +1,4 @@
-# === Listing 5. IAM Policy for SES and S3 Access ===
-iam_policy = {
+
     "Version": "2012-10-17",
     "Statement": [
         {
@@ -20,4 +19,3 @@ iam_policy = {
             ]
         }
     ]
-}
