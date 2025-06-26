@@ -63,7 +63,3 @@ The policy grants:
 "Action": ["ses:SendEmail", "ses:SendRawEmail", "s3:GetObject"]
 
 
-
-Author
-Aakanksha Gupta
-ECE Undergraduate
