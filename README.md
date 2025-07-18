@@ -168,14 +168,15 @@ Thank you for staying on track with your goals.
 ```
 
 ---
-
 ## 🤝 Contributing
 
-1. Fork the repo
-2. Create your branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m "Add new feature"`
-4. Push: `git push origin feature-name`
-5. Open a pull request
+1. Fork the repo  
+2. Create your branch: `git checkout -b feature-name`  
+3. Commit your changes: `git commit -m "Add new feature"`  
+4. Push: `git push origin feature-name`  
+5. Open a pull request  
+
+For any questions or suggestions, feel free to reach out: **[gupta.aakanksha2003@gmail.com](mailto:gupta.aakanksha2003@gmail.com)**
 
 ---
 
@@ -188,3 +189,4 @@ Licensed under the MIT License – see `LICENSE` file for details.
 ## 🙏 Acknowledgments
 
 Thanks to the AWS and open-source Python communities for tools, docs, and support that made this project possible.
+
