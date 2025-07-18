@@ -1,6 +1,6 @@
 # 📧 SmartMail – Serverless Email Delivery Platform
 
-**MailSutra** is a fully serverless, secure, and scalable bulk email delivery system built with **AWS Lambda**, **Amazon SES**, and **S3**. Designed to handle thousands of recipients efficiently, it supports dynamic personalization, error handling, retry logic, and optional scheduling via EventBridge. Ideal for use cases like healthcare reminders, corporate campaigns, and educational updates.
+**SmartMail** is a fully serverless, secure, and scalable bulk email delivery system built with **AWS Lambda**, **Amazon SES**, and **S3**. Designed to handle thousands of recipients efficiently, it supports dynamic personalization, error handling, retry logic, and optional scheduling via EventBridge. Ideal for use cases like healthcare reminders, corporate campaigns, and educational updates.
 
 Developed as part of a **Cloud Computing academic project**, it follows cloud-native design patterns with production-readiness in mind.
 
