@@ -169,6 +169,12 @@ Thank you for staying on track with your goals.
 ```
 
 ---
+## 📷 Preview of Smart Mail
+
+Here is a sample output from the Smart Mail system:
+
+![Smart Mail Preview](img_mail/1.jpg)
+---
 ## 🤝 Contributing
 
 1. Fork the repo  
