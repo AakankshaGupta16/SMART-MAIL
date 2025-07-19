@@ -126,7 +126,7 @@ aws lambda invoke \
 
 ---
 
-## 📨 Example Email Output
+## 📨 Email Output
 
 **Subject:** Daily Reminder  
 **Body:**
@@ -135,6 +135,7 @@ Hello, this is your daily reminder for the day! Here is some random info: 1234
 
 Thank you for staying on track with your goals.
 ```
+![Smart Mail Preview](img_mail/1.png)
 
 ---
 
